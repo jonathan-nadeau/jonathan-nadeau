@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathan-nadeau
 - 👀 I’m interested in web development (Frontend) 
-- 🌱 I’m currently learning html, css, javascript (ReactJS, VueJS, Angular)
+- 🌱 My skills are currently Javascript (React, Typescript, Express) CSS / SASS, HTML
 - 📫 How to reach me : jonathannadeau.jn@gmail.com
 
 <!---
